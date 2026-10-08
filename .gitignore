@@ -1,0 +1,13 @@
+# Dependências do opencode
+.opencode/node_modules/
+
+# Artefatos de build
+*.o
+*.obj
+*.gch
+
+# Sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
